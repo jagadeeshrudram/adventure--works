@@ -66,6 +66,28 @@ Queries written to analyze:
 - Top 10 products by sales
 - Top 10 customers by sales
 
+### Dashboard Preview 
+
+### Excel Dashboard
+
+
+###<img width="800" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/f7b53196-cb76-4f74-82f6-fb8ee5cb2b4f" />
+ Tableau Dashboard
+<img width="800"  alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/4f55d4bb-f2d6-4dfd-89eb-855a16611c7b" />
+
+### Power BI Dashboard
+<img width="800" alt="Power BI Dshboard" src="https://github.com/user-attachments/assets/173fa84b-eb7e-4bb8-bd70-f3e0d57ceb97" />
+
+### My SQL Out Put
+<img width="800"  alt="Region OutPut" src="https://github.com/user-attachments/assets/6924a0b1-3cb9-4ccb-a1f6-b62af1f2cf8f" />
+<img width="800"  alt="Products OutPut" src="https://github.com/user-attachments/assets/40401042-18e6-4a78-8d54-fe3976d78353" />
+<img width="800"  alt="Customer OutPut" src="https://github.com/user-attachments/assets/0ffc2e7a-e69d-41ab-87a2-34bd87940aa8" />
+
+
+
+
+
+
 
 
 
